@@ -1,5 +1,5 @@
 # Quizks.org-API-Links
-Quickz api
+
 Link to see how many tokens a person has: https://quickz.org/api/users/user/creditz
 
 
